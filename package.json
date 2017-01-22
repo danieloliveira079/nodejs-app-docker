@@ -1,0 +1,25 @@
+{
+  "name": "salt-stack-expressjs-container",
+  "version": "1.0.0",
+  "description": "Tiny container using expressjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danieloliveira079/nodejs-app-docker.git"
+  },
+  "author": "Daniel Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danieloliveira079/nodejs-app-docker/issues"
+  },
+  "homepage": "https://github.com/danieloliveira079/nodejs-app-docker#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "morgan": "^1.7.0",
+    "starwars-names": "^1.6.0"
+  }
+}
